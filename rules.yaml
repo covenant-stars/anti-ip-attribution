@@ -1,4 +1,4 @@
-# 针对部分网站显示IP归属地的分流规则
+# 针对部分网站显示IP归属地的分流规则.
 # anti-ip-attribution rules.yaml
 # https://github.com/lwd-temp/anti-ip-attribution
 # 此文件用于记录用于生成其他配置文件的规则，任何更改仅需在此修改。
